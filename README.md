@@ -6,7 +6,7 @@ The IEEE OPEN is a category of the Latin American Robotic Competition (LARC) in 
 
 The robot was entirely designed on the 3D software [OpenScad](http://opensacad.org) and its physical structure was composed of acrylic and 3D printed pieces. In [estrutura folder](https://github.com/paaatcha/IEEE-OPEN/tree/master/larc2013/estrutura) you can see all designed parts.
 
-![3D](https://github.com/paaatcha/IEEE-OPEN/blob/master/larc2013/img/1498749_768988053135812_4544890504547737136_o.png?raw=true)
+![3D](https://github.com/paaatcha/IEEE-OPEN/blob/master/larc2013/estrutura/img/ultima.jpg?raw=true)
 
 ![real](https://github.com/paaatcha/IEEE-OPEN/blob/master/larc2013/img/2013-09-24%2021.02.21.jpg?raw=true)
 
